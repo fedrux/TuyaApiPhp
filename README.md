@@ -102,7 +102,5 @@ try {
 }
 ```
 
-If you'd like, I can now:
-- Add `pathRequesterPost()` to centralize POST signing and error parsing, and refactor `setDeviceStatus()` to use it, or
-- Add example `prove_tuya_test.php` that runs a small smoke test (non-destructive) using env variables.
+
 
