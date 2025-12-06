@@ -1,6 +1,12 @@
 # TuyaApiPhp
 Connect to Tuya APIs easy with TuyaApiPhp.php
 
+Official Tuya documentation and platform links used while implementing this client:
+
+- New signature spec (canonical signing): https://developer.tuya.com/en/docs/iot/new-singnature?id=Kbw0q34cs2e5g
+- Tuya Cloud platform (EU): https://eu.platform.tuya.com/cloud/basic?id=p1765036332595re5fw5&toptab=related&region=EU&deviceTab=all
+- Tuya Cloud device & commands API: https://developer.tuya.com/en/docs/cloud/e2512fb901?id=Kag2yag3tiqn5
+
 Class Reference — `TuyaApiPhp`
 --------------------------------
 
